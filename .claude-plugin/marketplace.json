@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "model-trainer",
+  "description": "Marketplace for the Model Trainer Claude Code plugin.",
+  "owner": {
+    "name": "hook"
+  },
+  "plugins": [
+    {
+      "name": "model-trainer",
+      "description": "Skill-driven autonomous ML model training. Hypothesize, design experiments, train, review, and report, with Execute-Don't-Eyeball methodology for rigorous metric evaluation.",
+      "category": "development",
+      "source": "./",
+      "keywords": [
+        "ml",
+        "training",
+        "experiments",
+        "skills",
+        "autonomous-research"
+      ]
+    }
+  ]
+}

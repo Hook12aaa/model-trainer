@@ -1,0 +1,17 @@
+{
+  "name": "model-trainer",
+  "description": "Skill-driven autonomous ML model training for Claude Code. Hypothesize, design experiments, train, review, and report — with Execute-Don't-Eyeball methodology for rigorous metric evaluation.",
+  "version": "0.1.0",
+  "author": {
+    "name": "hook"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ml",
+    "training",
+    "experiments",
+    "tensorflow",
+    "skills",
+    "autonomous-research"
+  ]
+}
